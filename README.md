@@ -1,11 +1,9 @@
 # Markdown Example
 
 ## Coursera Training
-
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+ 
+I am using **bold** in a sentence.
+Here is *italics* in a sentence.
 
 - This is
 - an unordered
