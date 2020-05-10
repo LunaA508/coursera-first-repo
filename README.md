@@ -23,4 +23,3 @@ of code
 
 Here is how you make [a link](https://lunaa508.github.io/coursera-first-repo/).
 
-![This is an image.](images/heart_of_the_cards.png)
